@@ -1,5 +1,5 @@
 # psiml2017-homework
-My solutions to [Petnica Summer Institute: Machine Learning](http://psiml.petnica.rs) 2017 [homework](http://psiml.petlja.org/Competitions/Competition/9) assignments.
+My solutions to [Petnica Summer Institute: Machine Learning](http://psiml.petnica.rs) 2017 homework assignments, as a part of the application process.
 
 Line processor visualization:
 
